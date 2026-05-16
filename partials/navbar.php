@@ -12,11 +12,7 @@
 
     <div class="nav-right">
 
-        <button id="darkModeBtn">
-
-            🌙
-
-        </button>
+        
 
         <a href="../auth/logout.php" class="logout-btn">
             Logout

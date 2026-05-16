@@ -32,4 +32,4 @@ Aplikasi kasir berbasis PHP Native dan PostgreSQL.
 
 ## Author
 
-Nama Kamu
+Nathapradja
